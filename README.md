@@ -227,3 +227,10 @@ Console复制
 ```Console
 Hello World!
 ```
+
+### 添加基线
+
+```
+vcpkg x-update-baseline --add-initial-baseline
+```
+
