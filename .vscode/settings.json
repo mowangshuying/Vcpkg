@@ -1,0 +1,6 @@
+{
+    "C_Cpp.formatting": "clangFormat",
+    "files.autoGuessEncoding": true,
+    "cmake.outputLogEncoding": "utf-8",
+    "cmake.enableTraceLogging": true
+}
