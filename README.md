@@ -36,7 +36,7 @@ code helloworld
 ![安装 C++ Visual Studio Code 扩展](./imgs/vscode-c-extension.png)
 安装 CMake 工具扩展。 这将在 Visual Studio Code 中启用 CMake 支持。
 
-![安装 CMake Tools Visual Studio Code 扩展](.\imgs\vscode-cmake-extension.png)
+![安装 CMake Tools Visual Studio Code 扩展](./imgs/vscode-cmake-extension.png)
 
 ### 设置环境变量
 
@@ -57,7 +57,7 @@ $env:VCPKG_ROOT="C:\path\to\vcpkg"
 $env:PATH="$env:VCPKG_ROOT;$env:PATH"
 ```
 
-![设置 vcpkg 环境变量](.\imgs\vscode-terminal-vcpkg.png)
+![设置 vcpkg 环境变量](./imgs/vscode-terminal-vcpkg.png)
 
 在 Visual Studio Code 终端中设置 VCPKG_ROOT 并将其添加到 PATH 中的屏幕截图。
 
@@ -196,7 +196,7 @@ JSON复制
 
 1. 通过导航到>中的命令面板来运行 项目命令
 
-![Visual Studio Code 中的 CMake 生成命令](.\imgs\vscode-command-build.png)
+![Visual Studio Code 中的 CMake 生成命令](./imgs/vscode-command-build.png)
 
 在 Visual Studio Code 中选择 CMake 生成命令的屏幕截图。
 
@@ -204,7 +204,7 @@ JSON复制
 
 选择 `default` CMake 预设。 此操作将启用 vcpkg 工具链。
 
-![在 Visual Studio Code 的 CMake 生成命令中选择预设](.\imgs\vscode-command-build-preset.png)
+![在 Visual Studio Code 的 CMake 生成命令中选择预设](./imgs/vscode-command-build-preset.png)
 
 在 Visual Studio Code 的 CMake 生成命令中选择预设的屏幕截图。
 
