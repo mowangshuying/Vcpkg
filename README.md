@@ -33,7 +33,7 @@ code helloworld
 ### 安装Visual Studio Code 扩展
 导航到“扩展”视图并安装 C++ 扩展。 此操作将启用 C++ IntelliSense 和代码导航。
 
-![安装 C++ Visual Studio Code 扩展](.\imgs\vscode-c-extension.png)
+![安装 C++ Visual Studio Code 扩展](./imgs/vscode-c-extension.png)
 安装 CMake 工具扩展。 这将在 Visual Studio Code 中启用 CMake 支持。
 
 ![安装 CMake Tools Visual Studio Code 扩展](.\imgs\vscode-cmake-extension.png)
