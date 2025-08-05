@@ -1,8 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
-project(HelloWorld)
+project(Vcpkg)
+
 find_package(fmt CONFIG REQUIRED)
+find_package(spdlog CONFIG REQUIRED)
 
-add_subdirectory(example)
-
-# add_executable(HelloWorld helloworld.cpp)
-# target_link_libraries(HelloWorld PRIVATE fmt::fmt)
+add_subdirectory(demo)
