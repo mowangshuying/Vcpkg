@@ -3,7 +3,8 @@
     "fmt",
     "jsoncpp",
     "spdlog",
-    "nlohmann-json"
+    "nlohmann-json",
+    "sqlite-orm"
   ],
   "builtin-baseline": "8da671e9cf32dc79a65e8f426cd5c24075808330"
 }
